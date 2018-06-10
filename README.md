@@ -1,1 +1,3 @@
 # hapi
+
+node server.js
