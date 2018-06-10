@@ -1,7 +1,5 @@
-# hapi
-
 # Description
-Node server using hapi library and moongose
+Node server using hapi library and moongose.
 
 # Dependencies
 - mongoose:27017
